@@ -14,7 +14,7 @@
 		},
 		{
 			"Name": "Murderer",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
